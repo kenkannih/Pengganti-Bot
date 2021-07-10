@@ -1,0 +1,34 @@
+{
+    "name": "Mainten Bot",
+    "description": "Repo Telegram Untuk Pengembang Untuk Mengontrol Bot Sedang Dalam Pemeliharaan",
+    "logo": "https://telegra.ph/file/f854d5d729d3166d0c89e.jpg",
+    "repository": "https://github.com/kenkannih/Pengganti-Bot",
+    "keywords": [
+        "telegram",
+        "pyrogram",
+        "maintenance",
+        "bot"
+    ],
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Dapatkan di @Botfather"
+        },
+        "UPDATES_CHANNEL": {
+            "description": "Isi dengan username channel tanpa tanda @"
+        },
+        "SUPPORT_CHAT": {
+            "description": "Isi dengan username group tanpa tanda @"
+        },
+        "API_ID": {
+            "description": "Dapatkan API_ID di https://my.telegram.org/apps atau di bot telegram via @Kenkanrobot"
+        },
+        "API_HASH": {
+            "description": "Dapatkan API_HASH di https://my.telegram.org/apps atau di bot telegram via @Kenkanrobot"
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
