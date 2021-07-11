@@ -1,7 +1,6 @@
 {
-    "name": "Mainten Bot",
+    "name": "Pengganti Bot",
     "description": "Repo Telegram Untuk Pengembang Untuk Mengontrol Bot Sedang Dalam Pemeliharaan",
-    "logo": "https://telegra.ph/file/f854d5d729d3166d0c89e.jpg",
     "repository": "https://github.com/kenkannih/Pengganti-Bot",
     "keywords": [
         "telegram",
