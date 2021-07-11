@@ -1,3 +1,8 @@
+# Copyright (C) 2021 kenkannih/Pengganti-Bot
+#
+# Apache License Version 2.0, January 2004 http://www.apache.org/licenses/
+
+# Pengganti-Bot
 import os
 import logging
 from pyrogram import Client, filters
