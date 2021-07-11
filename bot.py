@@ -46,12 +46,12 @@ async def start(bot, update):
         text=text, disable_web_page_preview=True, reply_markup=reply_markup
     )
 
-@bot.on_message(filters.command(["reload","admincache","play","help","start"]) filters.group & ~ filters.edited)
-async def start(bot, update):
+@Client.on_message(filters.command(["reload","admincache","play","help","start"]) filters.group & ~ filters.edited)
+async def gstart(_, message: Message):
     text = BOT_TEXT.format(update.from_user.mention)
     reply_markup = BOT_BUTTONS
     await update.reply_text(
-        text=text, disable_web_page_preview=True, reply_markup=reply_markup
+      text=text, disable_web_page_preview=True, reply_markup=reply_markup
     )
 logging.info("Bot is online.")
 bot.run()
