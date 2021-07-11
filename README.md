@@ -26,7 +26,7 @@
 </p>
 <p align="center"> ━━━━━━━━━━༻❁༺━━━━━━━━━━ </p>
 
-<h3>SYARAT DEPLOY</h3>
+<h3><p align="center">SYARAT DEPLOY</h3></p>
 
 <p align="center"> ━━━━━━━━━━༻❁༺━━━━━━━━━━ </p>
 
