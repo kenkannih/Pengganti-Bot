@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://2.bp.blogspot.com/-eBu3-f3vzW0/V3E8UnYXsfI/AAAAAAAADHI/lJrPAoLSE70aO0F3W9fruZ8O-qJY76MSwCLcB/s1600/gambar-gerak-gif-chip-and-dale-terbaru.gif" style="width:100%">
+</p>
+
 # Pengganti-Bot
 
 <p align="center">
@@ -20,7 +24,19 @@
 
 <br>
 </p>
+<p align="center"> ━━━━━━━━━━༻❁༺━━━━━━━━━━ </p>
 
+<h3>SYARAT DEPLOY</h3>
+
+<p align="center"> ━━━━━━━━━━༻❁༺━━━━━━━━━━ </p>
+
+KEYWORD | VALUE
+:--- | :---
+API_ID | Bisa kamu dapatkan di t.me/Kenkanrobot atau @Kenkanrobot delay 10 detik
+API_HASH | Bisa kamu dapatkan di t.me/Kenkanrobot atau @Kenkanrobot delay 10 detik
+BOT_TOKEN | Bisa kamu dapatkan di t.me/Botfather atau @Botfather
+SUPPORT_CHAT | Isi dengan username group kamu tanpa tanda @
+UPDATES_CHANNEL | Isi dengan username channel kamu tanpa tanda @
 
 ## Credit
 TERIMAKASIH UNTUK
