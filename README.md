@@ -12,3 +12,18 @@
 <h3>Hay <img src="wave1.gif"widht="25" height="25"> kak ini repo untuk pengganti repo utama jika bot sedang update.</h3>
 
 <p align="center"><img src="Tak berjudul191_20210708144555.png"/></p>
+
+## <p align="center">DEPLOY KAISAR-USERBOT</p>
+
+
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/kenkannih/Kaisar-userbot"> <img src="https://img.shields.io/badge/BUAT DI-HEROKU-blue?style=plastic&logo=heroku&logoColor=yellow"width="300" height="50" /></a></p>
+
+<br>
+</p>
+
+
+## Credit
+TERIMAKASIH UNTUK
+
+
+*   YANG PERTAMA SAYA SENDIRI <a href="https://github.com/kenkannih/kenkannih"><img src="https://img.shields.io/badge/KEN-KAN-blue?style=plastic&logo=github&logoColor=yellow"/></a>
