@@ -21,11 +21,16 @@ updatesc = os.environ["UPDATES_CHANNEL"]
 supportc = os.environ["SUPPORT_CHAT"]
 
 BOT_TEXT = """
-・✦▭▭▭▭✧◦✦◦✧▭▭▭▭✦ ・
-\nHai {} , Bot Ini Sedang Dalam Pemeliharaan.
-Anda Tidak Dapat Menggunakan Bot Ini
-Sekarang. Kami sarankan bergabung di Channel atau Group support Bot Ini, Agar mendapatkan info Jika Bot Ini Sudah Siap digunakan kembali.\n
-・✦▭▭▭▭✧◦✦◦✧▭▭▭▭✦ ・
+┏━━━━━━༻❁༺━━━━━━┓\n 
+  Hai {} , Bot Ini Sedang\n
+  Dalam Pemeliharaan.\n
+  Anda tidak dapat Menggunakan\n 
+  Bot Ini Sekarang. Kami sarankan\n
+  Bergabung di Channel atau\n
+  Group support Bot Ini,  Agar\n 
+  Mendapatkan info Jika\n
+  Bot siap digunakan kembali.\n
+┗━━━━━━༻❁༺━━━━━━┛
 """
 
 BOT_BUTTONS = InlineKeyboardMarkup(
