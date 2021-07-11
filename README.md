@@ -17,6 +17,9 @@
 
 <p align="center"><img src="Tak berjudul191_20210708144555.png"/></p>
 
+<a href="https://github.com/kenkannih/Pengganti-Bot/blob/main/LICENSE"><img src="https://img.shields.io/github/license/kenkannih/Pengganti-Bot?color=gold&label=LICENSE&logo=github&logoColor=gold&style=plastic"width="150" height="30"/></a>
+
+
 ## <p align="center">DEPLOY PENGGANTI-BOT</p>
 
 
