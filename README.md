@@ -41,6 +41,13 @@ BOT_TOKEN | Bisa kamu dapatkan di t.me/Botfather atau @Botfather
 SUPPORT_CHAT | Isi dengan username group kamu tanpa tanda @
 UPDATES_CHANNEL | Isi dengan username channel kamu tanpa tanda @
 
+### Mari terhubung!
+<p align="center">
+    <a href="https://t.me/kenkanasw" target="blank"><img src="https://img.shields.io/badge/@kenkanasw-30302f?style=flat&logo=telegram"/></a>
+    <a href="https://t.me/musikkugroup" target="blank"><img src="https://img.shields.io/badge/MUSIK KU GROUP-black?style=flat&logo=telegram"/></a>
+    <a href="https://t.me/musikkuchannel" target="blank"><img src="https://img.shields.io/badge/MUSIK KU CHANNEL-gold?style=flat&logo=telegram"/></a>
+</p>
+
 ## Credit
 TERIMAKASIH UNTUK
 
